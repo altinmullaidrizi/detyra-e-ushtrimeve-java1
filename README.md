@@ -1,1 +1,1 @@
-# detyra-e-ushtrimeve-java1
+# detyrat e ligjeratave dhe ushtrimeve.
